@@ -1,4 +1,4 @@
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
 
   <!-- Linguagens -->
   <img align="center" alt="Java" height="30" width="40"
