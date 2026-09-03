@@ -1,4 +1,4 @@
-<h2 align="center">Oi, Eu sou Ruan</h2>
+<h2 align="center">Oi, Eu sou Ruan! </h2>
 
 ## 🚀 Sobre mim!
 
