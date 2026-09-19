@@ -6,8 +6,6 @@ Sou formado em Análise e Desenvolvimento de Sistemas e entusiasta de tecnologia
 
 Atualmente, meu foco está em continuar aprimorando meus conhecimentos em desenvolvimento e, futuramente, aprofundar minha formação na área de Engenharia de Software.
 
-Este perfil reúne alguns dos meus projetos, estudos e experimentos que fazem parte da minha jornada na área de tecnologia.
-
 <div style="display: inline_block">
   <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
   <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
